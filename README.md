@@ -1,6 +1,6 @@
 # lab_6_qualitative_data_analysis
 
-This repository contains the starter code for [Lab 06: Qualitative Data Analysis] for the University of Kansas course [EECS 690 Human-Robot Interaction] taught by Dr. Sarah Sebo in Fall 2026. 
+This repository contains the starter code for Lab 06 [Qualitative Data Analysis] for the University of Kansas course [EECS 690 Human-Robot Interaction] taught by Dr. Sarah Sebo in Fall 2026. 
 
 The learning goals for this lab are:
 - Students will earn how to collaboratively perform a thematic analysis on interview transcripts.
